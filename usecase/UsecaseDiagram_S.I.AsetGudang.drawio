@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="vrqg1WvFMhjWSPYmkqD6">
-    <mxGraphModel dx="1212" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,12 +12,6 @@
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-212" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Mendaftarkan aset baru&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="300" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-213" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-214" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-214" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Menghapus data aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="360" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-215" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-216" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
           <mxGeometry relative="1" as="geometry" />
@@ -43,25 +37,10 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-224" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font&gt;Scan barcode/QR aset&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="450" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-225" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Melihat riwayat perubahan aset" vertex="1">
-          <mxGeometry height="40" width="70" x="390" y="400" as="geometry" />
-        </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-226" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-227" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-227" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Ekspor data aset ke Excel&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="410" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-228" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Mencetak label aset" vertex="1">
-          <mxGeometry height="40" width="70" x="400" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-229" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Memindahkan aset antar lokasi&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="470" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-231" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Impor data aset dari file&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="420" y="530" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-232" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
           <mxGeometry relative="1" as="geometry" />
@@ -82,9 +61,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-238" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-224" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-239" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-229" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-240" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-230" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
@@ -117,23 +93,35 @@
             <mxPoint x="470" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-247" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-214" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="ttJMnmOJ9A8DWHro3bs2-229" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="530" y="240" as="sourcePoint" />
-            <mxPoint x="690" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-248" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Manajement Aset" vertex="1">
           <mxGeometry height="510" width="370" x="220" y="90" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-218" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Melihat detail aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="50" y="250" as="geometry" />
+          <mxGeometry height="40" width="70" x="20" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-216" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Melihat Riwayat/Status Aset&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="100" y="220" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-230" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Mencatat penghapusan aset" vertex="1">
-          <mxGeometry height="40" width="70" x="230" y="260" as="geometry" />
+          <mxGeometry height="40" width="70" x="159" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-214" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Menghapus data aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-229" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Memindahkan aset antar lokasi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-225" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Melihat riwayat perubahan aset" vertex="1">
+          <mxGeometry height="40" width="70" x="150" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-231" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Impor data aset dari file&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="220" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-227" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Ekspor data aset ke Excel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="200" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-228" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Mencetak label aset" vertex="1">
+          <mxGeometry height="40" width="70" x="180" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-249" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; font-weight: 500; text-align: start; white-space: nowrap;&quot;&gt;Pengadaan Aset&lt;/span&gt;" vertex="1">
           <mxGeometry height="510" width="370" x="220" y="720" as="geometry" />
@@ -631,6 +619,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDq1_bFD7WnbyKTvlYuf-10" edge="1" parent="1" source="SDq1_bFD7WnbyKTvlYuf-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji7-jTJ7KOdppPhq-gUy-1" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-229" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji7-jTJ7KOdppPhq-gUy-2" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-214" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
