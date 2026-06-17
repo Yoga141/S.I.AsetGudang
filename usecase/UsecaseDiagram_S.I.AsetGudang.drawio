@@ -235,7 +235,7 @@
           <mxGeometry height="510" width="370" x="220" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-322" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Membuat jadwal perawatan" vertex="1">
-          <mxGeometry height="40" width="70" x="80" y="20" as="geometry" />
+          <mxGeometry height="40" width="70" x="30" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-323" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mencatat hasil inspeksi aset" vertex="1">
           <mxGeometry height="40" width="70" x="53" y="150" as="geometry" />
@@ -250,10 +250,10 @@
           <mxGeometry height="40" width="70" x="110" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-328" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Melihat riwayat pemeliharaan" vertex="1">
-          <mxGeometry height="40" width="70" x="80" y="320" as="geometry" />
+          <mxGeometry height="40" width="70" x="60" y="334" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-329" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengunggah bukti perbaikan" vertex="1">
-          <mxGeometry height="40" width="70" x="70" y="393" as="geometry" />
+          <mxGeometry height="40" width="70" x="60" y="420" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-332" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memperbarui tingkat prioritas tiket" vertex="1">
           <mxGeometry height="40" width="70" x="240" y="220" as="geometry" />
