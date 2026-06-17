@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="vrqg1WvFMhjWSPYmkqD6">
-    <mxGraphModel dx="1144" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="624" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-217" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-218" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-219" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Mengelola kategori aset dan status aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-219" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Menambah kategori aset&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="280" y="400" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-220" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Mengunggah foto aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-223" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Mengisi form data aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="450" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-224" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font&gt;Scan barcode/QR aset&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="450" y="180" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-226" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-227" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry">
@@ -60,9 +57,6 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-237" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-223" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-238" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-224" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-240" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-230" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -75,22 +69,16 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-243" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-231" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-244" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-228" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ttJMnmOJ9A8DWHro3bs2-224" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-244" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-228" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="380" y="390" as="sourcePoint" />
-            <mxPoint x="540" y="390" as="targetPoint" />
+            <mxPoint x="485" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-245" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-212" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ttJMnmOJ9A8DWHro3bs2-223" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="400" y="170" as="sourcePoint" />
             <mxPoint x="560" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-246" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-212" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="ttJMnmOJ9A8DWHro3bs2-224" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="400" y="190" as="sourcePoint" />
-            <mxPoint x="470" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-248" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Manajement Aset" vertex="1">
@@ -108,7 +96,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-214" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Menghapus data aset&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="270" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-229" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Memindahkan aset antar lokasi&lt;/font&gt;" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-229" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Mencatat mutasi aset&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="100" y="170" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-225" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Melihat riwayat perubahan aset" vertex="1">
@@ -135,7 +123,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-260" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;span style=&quot;&quot;&gt;Menerima aset dari supplier&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="70" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-255" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengelola Profil Vendor" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-255" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memperbarui data profil pengguna" vertex="1">
           <mxGeometry height="40" width="70" x="80" y="440" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-258" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;span style=&quot;&quot;&gt;Mencatat GRN (Good Received Note)&lt;/span&gt;" vertex="1">
@@ -156,7 +144,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-261" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;span style=&quot;&quot;&gt;Menolak permintaan aset&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="270" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-262" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;Menetapkan anggaran pengadaan&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-262" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;br&gt;&lt;div&gt;Memasukkan data anggaran&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="170" y="235" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-264" parent="ttJMnmOJ9A8DWHro3bs2-249" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;span style=&quot;&quot;&gt;Melihat laporan pengadaan&lt;/span&gt;" vertex="1">
@@ -267,13 +255,13 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-329" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengunggah bukti perbaikan" vertex="1">
           <mxGeometry height="40" width="70" x="70" y="393" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-332" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menetapkan prioritas perbaikan" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-332" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memperbarui tingkat prioritas tiket" vertex="1">
           <mxGeometry height="40" width="70" x="240" y="220" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-333" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Melihat laporan pemeliharaan" vertex="1">
           <mxGeometry height="40" width="70" x="220" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-334" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menutup tiket perbaikan" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-334" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Memperbarui status tiket perbaikan menjadi selesai&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="200" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-352" edge="1" parent="ttJMnmOJ9A8DWHro3bs2-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
@@ -297,7 +285,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-331" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memonitor kondisi aset" vertex="1">
           <mxGeometry height="40" width="70" x="170" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="Ji7-jTJ7KOdppPhq-gUy-9" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memproses jadwal perawatan aset" vertex="1">
+        <mxCell id="Ji7-jTJ7KOdppPhq-gUy-9" parent="ttJMnmOJ9A8DWHro3bs2-319" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengubah status jadwal" vertex="1">
           <mxGeometry height="40" width="70" x="123" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Ji7-jTJ7KOdppPhq-gUy-11" edge="1" parent="ttJMnmOJ9A8DWHro3bs2-319" source="ttJMnmOJ9A8DWHro3bs2-326" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" target="Ji7-jTJ7KOdppPhq-gUy-9" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
@@ -443,7 +431,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-357" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Auditor" vertex="1">
           <mxGeometry height="30" width="20" x="680" y="2300" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-366" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Melakukan audit fisik aset" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-366" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mencatat hasil pencocokan aset" vertex="1">
           <mxGeometry height="40" width="70" x="480" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-372" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-358" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-356">
@@ -502,13 +490,13 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-396" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Restore data dari backup" vertex="1">
           <mxGeometry height="40" width="70" x="50" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-397" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengatur kebijakan password" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-397" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menyimpan konfigurasi kebijakan sistem" vertex="1">
           <mxGeometry height="40" width="70" x="110" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-392" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengelola akun pengguna" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-392" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menambah akun pengguna" vertex="1">
           <mxGeometry height="40" width="70" x="70" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-393" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menetapkan hak akses (RBAC)" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-393" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Menyimpan konfigurasi hak akses (RBAC)" vertex="1">
           <mxGeometry height="40" width="70" x="50" y="90" as="geometry" />
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-407" parent="ttJMnmOJ9A8DWHro3bs2-391" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Reset password via email" vertex="1">
@@ -544,7 +532,7 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-399" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengonfigurasi notifikasi sistem" vertex="1">
           <mxGeometry height="40" width="70" x="310" y="3110" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-400" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Mengelola master data" vertex="1">
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-400" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;" value="Memperbarui master data" vertex="1">
           <mxGeometry height="40" width="70" x="260" y="3170" as="geometry" />
         </mxCell>
         <mxCell id="JGa3toTjyCk54IzFmMTe-8" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-402" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-406">
