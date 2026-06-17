@@ -10,9 +10,6 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-211" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
           <mxGeometry height="30" width="20" x="710" y="305" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-212" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Mendaftarkan aset baru&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="300" y="150" as="geometry" />
-        </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-215" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-216" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,12 +66,6 @@
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-243" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-231" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ttJMnmOJ9A8DWHro3bs2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ttJMnmOJ9A8DWHro3bs2-244" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-228" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="380" y="390" as="sourcePoint" />
-            <mxPoint x="485" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-245" edge="1" parent="1" source="ttJMnmOJ9A8DWHro3bs2-212" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ttJMnmOJ9A8DWHro3bs2-223" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="400" y="170" as="sourcePoint" />
@@ -110,6 +101,15 @@
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-228" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=9;align=center;" value="Mencetak label aset" vertex="1">
           <mxGeometry height="40" width="70" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-212" parent="ttJMnmOJ9A8DWHro3bs2-248" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Mendaftarkan aset baru&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="110" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ttJMnmOJ9A8DWHro3bs2-244" edge="1" parent="ttJMnmOJ9A8DWHro3bs2-248" source="ttJMnmOJ9A8DWHro3bs2-228" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="ttJMnmOJ9A8DWHro3bs2-212" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="265" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ttJMnmOJ9A8DWHro3bs2-249" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; font-weight: 500; text-align: start; white-space: nowrap;&quot;&gt;Pengadaan Aset&lt;/span&gt;" vertex="1">
           <mxGeometry height="510" width="370" x="220" y="720" as="geometry" />
