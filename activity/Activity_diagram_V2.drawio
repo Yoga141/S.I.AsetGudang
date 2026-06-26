@@ -1460,7 +1460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0_LlGhAT-6Dqvo5Sl8yq" name="Manajemen Aset">
-    <mxGraphModel dx="1463" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5305" dy="2835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1983,9 +1983,6 @@
         </mxCell>
         <mxCell id="fcgG6Cujp5qyVjDSaNE0-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#33001A;fontColor=#33001A;fontSize=9;arcSize=10;" value="Catat log pengembalian&#xa;&amp;amp; UPDATE riwayat pinjam" vertex="1">
           <mxGeometry height="40.69565217391304" width="219.11111111111106" x="3370" y="732.3339130434781" as="geometry" />
-        </mxCell>
-        <mxCell id="fcgG6Cujp5qyVjDSaNE0-38" parent="1" style="swimlane;whiteSpace=wrap;startSize=23;" value="Database" vertex="1">
-          <mxGeometry height="740" width="280" x="3890" y="33.03" as="geometry" />
         </mxCell>
         <mxCell id="fcgG6Cujp5qyVjDSaNE0-39" parent="1" style="swimlane;whiteSpace=wrap;startSize=23;" value="Peminjam" vertex="1">
           <mxGeometry height="780.65" width="297.1111111111111" x="2204.89" y="49.35" as="geometry" />
