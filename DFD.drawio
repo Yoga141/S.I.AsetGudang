@@ -1484,7 +1484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MQOs5AHSuck50qjZE-pc" name="Level 2 — Proses 4.0 Pengadaan Aset">
-    <mxGraphModel dx="3937" dy="1890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1515,7 +1515,7 @@
         </UserObject>
         <UserObject label="D3 Pengadaan" mermaidId="n:D3" mermaidBaseStyle="html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="D3 Pengadaan" id="f_D62JlAMrO6e_QJ7AKn-6">
           <mxCell parent="f_D62JlAMrO6e_QJ7AKn-1" style="html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="67" width="115" x="817" y="355" as="geometry" />
+            <mxGeometry height="67" width="115" x="883" y="346" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="D6 Log &amp; Notifikasi" mermaidId="n:D6" mermaidBaseStyle="html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="D6 Log &amp; Notifikasi" id="f_D62JlAMrO6e_QJ7AKn-7">
@@ -1535,7 +1535,7 @@
         </UserObject>
         <UserObject label="4.2 Setujui/Tolak&#xa;Permintaan Aset" mermaidId="n:P4_2" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="4.2 Setujui/Tolak&#xa;Permintaan Aset" id="f_D62JlAMrO6e_QJ7AKn-10">
           <mxCell parent="f_D62JlAMrO6e_QJ7AKn-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="315" x="119" y="472" as="geometry" />
+            <mxGeometry height="54" width="315" x="50" y="417" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="4.3 Evaluasi &amp;&#xa;Seleksi Vendor" mermaidId="n:P4_3" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="4.3 Evaluasi &amp;&#xa;Seleksi Vendor" id="f_D62JlAMrO6e_QJ7AKn-11">
@@ -1580,7 +1580,7 @@
         </UserObject>
         <UserObject label="4.11 Lihat Status &amp;&#xa;Laporan Pengadaan" mermaidId="n:P4_11" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="4.11 Lihat Status &amp;&#xa;Laporan Pengadaan" id="f_D62JlAMrO6e_QJ7AKn-19">
           <mxCell parent="f_D62JlAMrO6e_QJ7AKn-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="350" x="1037" y="472" as="geometry" />
+            <mxGeometry height="54" width="350" x="985" y="623" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Form permintaan" mermaidId="e:E3-&gt;P4_1#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.56;entryX=0.5;entryY=0;" mermaidBaseValue="Form permintaan" id="f_D62JlAMrO6e_QJ7AKn-20">
