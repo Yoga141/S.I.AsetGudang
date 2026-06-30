@@ -586,7 +586,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f6QQyXMbFcp4tv8qizjl" name="Level 2 — Proses 1.0 Autentikasi &amp; Akun Pengguna">
-    <mxGraphModel dx="2122" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="1818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,7 +597,7 @@
         </UserObject>
         <UserObject label="Pengguna" mermaidId="n:E1" mermaidBaseStyle="ellipse;html=1;aspect=fixed;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Pengguna" id="Ywq-GKW8GIklgUEfHsQt-2">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="ellipse;html=1;aspect=fixed;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="98" width="98" x="1182" y="163" as="geometry" />
+            <mxGeometry height="98" width="98" x="1278" y="-310" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Email Service" mermaidId="n:E8" mermaidBaseStyle="ellipse;html=1;aspect=fixed;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Email Service" id="Ywq-GKW8GIklgUEfHsQt-3">
@@ -612,7 +612,7 @@
         </UserObject>
         <UserObject label="D6 Log &amp; Notifikasi" mermaidId="n:D6" mermaidBaseStyle="html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="D6 Log &amp; Notifikasi" id="Ywq-GKW8GIklgUEfHsQt-5">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="67" width="151" x="1250" y="483" as="geometry" />
+            <mxGeometry height="67" width="151" x="1820" y="550" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.1 Login ke Sistem" mermaidId="n:P1_1" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.1 Login ke Sistem" id="Ywq-GKW8GIklgUEfHsQt-6">
@@ -622,32 +622,32 @@
         </UserObject>
         <UserObject label="1.2 Logout dari Sistem" mermaidId="n:P1_2" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.2 Logout dari Sistem" id="Ywq-GKW8GIklgUEfHsQt-7">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="221" x="792" y="330" as="geometry" />
+            <mxGeometry height="54" width="221" x="687" y="269" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.3 Reset Password&#xa;via Email" mermaidId="n:P1_3" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.3 Reset Password&#xa;via Email" id="Ywq-GKW8GIklgUEfHsQt-8">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="276" x="2077" y="330" as="geometry" />
+            <mxGeometry height="54" width="276" x="2024" y="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.4 Verifikasi Email&#xa;&amp; Aktivasi Akun" mermaidId="n:P1_4" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.4 Verifikasi Email&#xa;&amp; Aktivasi Akun" id="Ywq-GKW8GIklgUEfHsQt-9">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="322" x="1705" y="330" as="geometry" />
+            <mxGeometry height="54" width="322" x="1649" y="234" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.5 Kelola Session&#xa;&amp; Auto Logout" mermaidId="n:P1_5" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.5 Kelola Session&#xa;&amp; Auto Logout" id="Ywq-GKW8GIklgUEfHsQt-10">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="303" x="718" y="40" as="geometry" />
+            <mxGeometry height="54" width="303" x="510" y="-250" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.6 Perbarui&#xa;Profil Pengguna" mermaidId="n:P1_6" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.6 Perbarui&#xa;Profil Pengguna" id="Ywq-GKW8GIklgUEfHsQt-11">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="272" x="1063" y="330" as="geometry" />
+            <mxGeometry height="54" width="272" x="758" y="677" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1.7 Aktifkan&#xa;Autentikasi 2FA" mermaidId="n:P1_7" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="1.7 Aktifkan&#xa;Autentikasi 2FA" id="Ywq-GKW8GIklgUEfHsQt-12">
           <mxCell parent="Ywq-GKW8GIklgUEfHsQt-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="270" x="1385" y="330" as="geometry" />
+            <mxGeometry height="54" width="270" x="1349" y="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Username &amp; password" mermaidId="e:E1-&gt;P1_1#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.6326530612244898;exitDx=0;exitDy=0;entryX=1;entryY=0.7407407407407407;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.63;entryX=1;entryY=0.74;" mermaidBaseValue="Username &amp; password" id="Ywq-GKW8GIklgUEfHsQt-13">
@@ -775,6 +775,7 @@
           <mxCell edge="1" parent="Ywq-GKW8GIklgUEfHsQt-1" source="Ywq-GKW8GIklgUEfHsQt-9" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.65;entryX=0.57;entryY=0;rounded=0;" target="Ywq-GKW8GIklgUEfHsQt-4">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
+                <mxPoint x="1450" y="310" />
                 <mxPoint x="557" y="419" />
               </Array>
             </mxGeometry>
